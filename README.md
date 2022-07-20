@@ -24,5 +24,5 @@
 ### 解释器模式（Interpreter Pattern）
 ### 状态模式（State Pattern）
 ### 策略模式（Strategy Pattern）
-### ### 责任链模式（Chain of Responsibility Pattern）
+### 责任链模式（Chain of Responsibility Pattern）
 ### 访问者模式（Visitor Pattern）
